@@ -1,0 +1,19 @@
+[ {
+  "isbn" : "1021021021",
+  "titulo" : "El Quijote",
+  "autor" : "Miguel de Cervantes",
+  "numPaginas" : 455,
+  "anhoPublicacion" : 1605
+}, {
+  "isbn" : "7771021021",
+  "titulo" : "Mi libro",
+  "autor" : "AnÃ³nimo",
+  "numPaginas" : 500,
+  "anhoPublicacion" : 1910
+}, {
+  "isbn" : "7898745632",
+  "titulo" : "Historias para no dormir",
+  "autor" : "JosÃ© Aguilar",
+  "numPaginas" : 125,
+  "anhoPublicacion" : 2010
+} ]
